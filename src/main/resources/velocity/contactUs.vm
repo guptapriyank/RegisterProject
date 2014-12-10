@@ -1,0 +1,12 @@
+<html>
+<body>
+<h3>Hi ${contactUsBean.name}, </h3>
+
+We have received your comment :
+<i>"${contactUsBean.comments}"</i>
+We will repond you as soon as possible!
+
+Thanks
+</body>
+
+</html>
